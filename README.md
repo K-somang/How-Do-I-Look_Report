@@ -1,1 +1,28 @@
-# How-Do-I-Look_Report
+# 개인 개발 리포트
+
+#### 작성자 : 유소망
+#### 팀명 : 2팀
+#### 프로젝트명 : How-Do-I-Look
+#### 프로젝트 기간 : 2025년 6월 26일 ~ 2025년 7월 15일
+#### 개인 개발 리포트 작성일 : 2025년 7월 13일
+
+## 1. 프로젝트 개요
+### 스타일 공유 및 큐레이팅 서비스를 제공하는 "How-Do-I-Look" 입니다. 누구든지 나만의 스타일을 자유롭게 공유하고 큐레이터들에게 평가를 받아 소통하는 기능을 제공하는 서비스입니다. 다양한 이용자들이 패션에 대한 생각을 나누고 소통할 수 있는 공간을 제공합니다.
+
+## 2. 기술 스텍 및 협업 도구
+| 분류 | 사용 예정 도구 |
+| Backend | Node.js (Express) |
+| Database| postgreSQL |
+| API 문서화| Notion |
+| 협업 도구 | Discord, GitHub, Notion |
+| 일정 관리 | GitHub Issues + Notion 타임라인 |
+| npm list | prisma, express, morgan, multer, cors, superstruct, nodemon, dotenv |
+| 배포 | Render |
+
+## 3. 담당 업무
+
+## 4. 기술적 성과
+
+## 5. 문제점 및 해결 과정
+
+## 6. 향후 개선 사항 및 제안
